@@ -1,0 +1,25 @@
+{
+  "name": "eth-price-checker",
+  "version": "1.0.0",
+  "description": "check eth price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenCR",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "btc-price-checker": "^1.0.2",
+    "chalk": "^5.3.0",
+    "shell-oooooyoung": "^1.1.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenCR/eth-price-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chenCR/eth-price-checker/issues"
+  },
+  "homepage": "https://github.com/chenCR/eth-price-checker/blob/main/README.md"
+}
